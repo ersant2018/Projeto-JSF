@@ -1,0 +1,11 @@
+127.0.0.1 - - [12/Aug/2024:13:56:53 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:13:57:12 -0300] "GET /ComponentesJSF/formularios.xhtml HTTP/1.1" 200 3198
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:13:57:13 -0300] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:13:57:54 -0300] "GET /SistemaLogin/cadastrarlogin.jsp HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:13:58:13 -0300] "GET /SistemaLogin/cadastrarLogin.jsp HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:13:58:38 -0300] "POST /SistemaLogin/CadastroLogin HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:14:13:39 -0300] "GET /SistemaLogin/login.jsp HTTP/1.1" 200 847
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:14:13:48 -0300] "POST /SistemaLogin/login HTTP/1.1" 500 837
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:14:13:48 -0300] "GET /SistemaLogin/imagens/erro1.jpg HTTP/1.1" 200 13113
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:14:17:06 -0300] "GET /SistemaLogin/cadastrarLogin.jsp HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [12/Aug/2024:14:17:13 -0300] "POST /SistemaLogin/CadastroLogin HTTP/1.1" 200 -

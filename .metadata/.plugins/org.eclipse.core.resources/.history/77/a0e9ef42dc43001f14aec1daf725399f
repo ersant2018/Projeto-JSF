@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Componentes</title>
+</h:head>
+<h:body>
+
+
+	<h:outputText>Componentes de Formulario</h:outputText>
+
+	<h:form > 
+      <h:panelGrid>
+        <h:outputLabel value="campo 01"/>
+        <h:inputText id="campo01" value=""/>
+
+        <h:outputLabel value="campo 02"/>
+        <h:inputText id="campo02" value=""/>
+
+        <h:outputLabel value="campo 03"/>
+        <h:inputText id="campo03" value=""/>
+
+        <h:outputLabel value="campo n"/>
+        <h:inputText id="campoN" value=""/>
+
+      </h:panelGrid>
+   </h:form>
+
+</h:body>
+</html>

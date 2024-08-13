@@ -1,0 +1,1001 @@
+2024-03-24 22:45:07,209 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-24 23:00:45,254 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-25 21:52:53,218 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-25 22:13:07,658 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-03-25 22:16:05,934 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/hackerrank/archetypes/springboot-rest-api/1.0.0/springboot-rest-api-1.0.0.jar
+2024-03-25 22:16:06,259 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/hackerrank/archetypes/springboot-rest-api/1.0.0/springboot-rest-api-1.0.0.jar
+2024-03-25 22:16:06,376 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/com/hackerrank/archetypes/springboot-rest-api/1.0.0/springboot-rest-api-1.0.0.pom
+2024-03-25 22:16:06,646 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/com/hackerrank/archetypes/springboot-rest-api/1.0.0/springboot-rest-api-1.0.0.pom
+2024-03-26 21:39:21,550 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-03-26 21:43:16,989 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Eduardo\eclipse-workspace\curso-jdev-treinamento\pom.xml
+2024-03-26 21:43:17,946 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.1.1.RELEASE/spring-boot-maven-plugin-2.1.1.RELEASE.pom
+2024-03-26 21:43:17,987 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.1.1.RELEASE/spring-boot-maven-plugin-2.1.1.RELEASE.pom
+2024-03-26 21:43:18,005 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.1.1.RELEASE/spring-boot-tools-2.1.1.RELEASE.pom
+2024-03-26 21:43:18,031 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-tools/2.1.1.RELEASE/spring-boot-tools-2.1.1.RELEASE.pom
+2024-03-26 21:43:18,110 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.1.1.RELEASE/spring-boot-maven-plugin-2.1.1.RELEASE.jar
+2024-03-26 21:43:18,149 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.1.1.RELEASE/spring-boot-maven-plugin-2.1.1.RELEASE.jar
+2024-03-26 21:43:23,760 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-03-26 21:43:27,730 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api-sample/src/main/java
+2024-03-26 21:43:27,731 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-rest-api-sample/src/main/resources
+2024-03-26 21:43:27,760 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-rest-api-sample/src/test/java
+2024-03-26 21:43:30,613 [Worker-9: Creating springboot-rest-api] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2024-03-26 21:43:31,572 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 21:43:31,576 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-26 21:43:31,585 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 21:43:31,585 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-03-26 21:46:06,741 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 21:46:06,743 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-03-26 21:46:06,746 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 21:46:06,746 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-03-26 22:00:40,664 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:00:40,698 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-26 22:00:40,701 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:00:40,701 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-03-26 22:15:57,638 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:15:57,642 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-26 22:15:57,645 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:15:57,647 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-03-26 22:19:22,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:19:22,734 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-26 22:19:22,735 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:19:22,736 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-03-26 22:22:48,340 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:22:48,342 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-03-26 22:22:48,345 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-03-26 22:22:48,347 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:39:19,442 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-01 21:43:34,455 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-01 21:43:38,278 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/podtgresql/postgresql/9.4.1212/postgresql-9.4.1212.pom
+2024-04-01 21:43:38,281 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.podtgresql:postgresql:jar:9.4.1212 is missing, no dependency information available
+2024-04-01 21:43:38,512 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/podtgresql/postgresql/9.4.1212/postgresql-9.4.1212.jar
+2024-04-01 21:43:40,071 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:43:40,082 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:43:40,095 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:43:40,095 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:43:40,802 [Worker-15: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.podtgresql:postgresql:jar:9.4.1212 is missing, no dependency information available
+2024-04-01 21:43:41,131 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/podtgresql/postgresql/9.4.1212/postgresql-9.4.1212-sources.jar
+2024-04-01 21:43:41,144 [Worker-15: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.podtgresql:postgresql:9.4.1212
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.podtgresql:postgresql:jar:sources:9.4.1212
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-04-01 21:45:54,430 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-01 21:45:55,220 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:45:55,222 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-01 21:45:55,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:45:55,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:45:57,864 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:45:57,870 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:45:57,885 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:45:57,886 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:52:52,887 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:52:52,909 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:52:52,915 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:52:52,916 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:54:11,128 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:54:11,129 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:54:11,133 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:54:11,134 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:57:30,528 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:57:30,533 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:57:30,542 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:57:30,543 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 21:58:02,664 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:58:02,665 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 21:58:02,667 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 21:58:02,668 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 22:14:05,660 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:14:05,857 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 22:14:05,865 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:14:05,865 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 22:32:06,393 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:32:06,402 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 22:32:06,410 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:32:06,410 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-01 22:34:54,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:34:54,756 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-01 22:34:54,758 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-01 22:34:54,758 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 21:32:00,675 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-04-02 21:44:33,891 [Worker-7: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:44:33,912 [Worker-7: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 21:44:33,924 [Worker-7: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:44:33,924 [Worker-7: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 21:49:31,109 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:49:31,112 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 21:49:31,115 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:49:31,115 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 21:57:17,652 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:57:17,653 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 21:57:17,659 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:57:17,659 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 21:57:29,886 [Worker-24: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:57:29,920 [Worker-24: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 21:57:29,921 [Worker-24: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 21:57:29,922 [Worker-24: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:00:09,642 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:00:09,643 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 22:00:09,648 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:00:09,648 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:06:45,510 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-02 22:06:46,240 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0.pom
+2024-04-02 22:06:46,295 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0.pom
+2024-04-02 22:06:46,313 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.3/pgjdbc-core-parent-1.1.3.pom
+2024-04-02 22:06:46,364 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.3/pgjdbc-core-parent-1.1.3.pom
+2024-04-02 22:06:46,378 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.3/pgjdbc-versions-1.1.3.pom
+2024-04-02 22:06:46,589 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.3/pgjdbc-versions-1.1.3.pom
+2024-04-02 22:06:46,918 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0.jar
+2024-04-02 22:06:47,206 [Worker-27: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0.jar
+2024-04-02 22:06:51,229 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:06:51,231 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 22:06:51,233 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:06:51,233 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:06:52,535 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0-sources.jar
+2024-04-02 22:06:52,829 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.0/postgresql-42.2.0-sources.jar
+2024-04-02 22:06:54,150 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.2.0
+2024-04-02 22:06:55,115 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:06:55,117 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 22:06:55,126 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:06:55,127 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:07:40,035 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-02 22:07:40,322 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.pom
+2024-04-02 22:07:40,379 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.pom
+2024-04-02 22:07:40,394 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.5/pgjdbc-core-parent-1.1.5.pom
+2024-04-02 22:07:40,433 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.5/pgjdbc-core-parent-1.1.5.pom
+2024-04-02 22:07:40,444 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.5/pgjdbc-versions-1.1.5.pom
+2024-04-02 22:07:40,472 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.5/pgjdbc-versions-1.1.5.pom
+2024-04-02 22:07:40,547 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar
+2024-04-02 22:07:41,125 [Worker-24: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5.jar
+2024-04-02 22:07:41,514 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:41,516 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 22:07:41,518 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:41,518 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:07:42,756 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5-sources.jar
+2024-04-02 22:07:42,879 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:42,879 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 22:07:42,888 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:42,891 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:07:42,948 [Worker-32: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.5/postgresql-42.2.5-sources.jar
+2024-04-02 22:07:43,187 [Worker-32: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.2.5
+2024-04-02 22:07:43,912 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:43,913 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 22:07:43,914 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:07:43,914 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:09:12,423 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-02 22:09:13,051 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:09:13,052 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 22:09:13,053 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:09:13,054 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:16:28,791 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-04-02 22:16:31,965 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:16:31,970 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-02 22:16:31,972 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:16:31,973 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-04-02 22:16:33,800 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:16:33,802 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-04-02 22:16:33,810 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-04-02 22:16:33,811 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-26 22:31:32,129 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-26 22:49:27,883 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-26 22:49:27,907 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-26 22:49:27,924 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-26 22:49:27,942 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:15:53,884 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-28 21:45:52,384 [Worker-2: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:45:52,400 [Worker-2: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 21:45:52,414 [Worker-2: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:45:52,414 [Worker-2: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:50:26,006 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 21:50:27,048 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7.pom
+2024-05-28 21:50:27,082 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7.pom
+2024-05-28 21:50:27,115 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-prevjre/1.1.2/pgjdbc-core-prevjre-1.1.2.pom
+2024-05-28 21:50:27,149 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-prevjre/1.1.2/pgjdbc-core-prevjre-1.1.2.pom
+2024-05-28 21:50:27,243 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7.jar
+2024-05-28 21:50:27,372 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7.jar
+2024-05-28 21:50:28,314 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:50:28,317 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 21:50:28,321 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:50:28,321 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:50:29,500 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7-sources.jar
+2024-05-28 21:50:29,842 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/9.4.1212.jre7/postgresql-9.4.1212.jre7-sources.jar
+2024-05-28 21:50:29,914 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:9.4.1212.jre7
+2024-05-28 21:50:30,996 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:50:31,000 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 21:50:31,009 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:50:31,009 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:52:06,565 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 21:52:08,317 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5.pom
+2024-05-28 21:52:08,365 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5.pom
+2024-05-28 21:52:08,408 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom
+2024-05-28 21:52:08,441 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.pom
+2024-05-28 21:52:08,564 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+2024-05-28 21:52:08,604 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar
+2024-05-28 21:52:08,681 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5.jar
+2024-05-28 21:52:08,819 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5.jar
+2024-05-28 21:52:09,967 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:09,968 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 21:52:09,970 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:09,970 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:52:11,413 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:11,414 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 21:52:11,423 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:11,423 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 21:52:11,501 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5-sources.jar
+2024-05-28 21:52:11,855 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.5/postgresql-42.4.5-sources.jar
+2024-05-28 21:52:11,942 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.4.5
+2024-05-28 21:52:12,059 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2024-05-28 21:52:12,124 [Worker-21: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0-sources.jar
+2024-05-28 21:52:12,604 [Worker-21: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.5.0
+2024-05-28 21:52:13,057 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:13,058 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 21:52:13,059 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 21:52:13,059 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:01:17,476 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:01:20,212 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:20,214 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:01:20,215 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:20,218 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:01:25,264 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:25,265 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:01:25,276 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:25,276 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:01:34,019 [Worker-28: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:34,024 [Worker-28: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:01:34,027 [Worker-28: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:01:34,027 [Worker-28: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:11:21,117 [Worker-32: Launching Application] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:11:23,311 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:11:23,314 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:11:23,316 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:11:23,316 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:11:24,440 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:11:24,443 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:11:24,469 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:11:24,469 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:16:30,907 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:16:31,637 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.pom
+2024-05-28 22:16:31,727 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.pom
+2024-05-28 22:16:31,835 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2024-05-28 22:16:31,915 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.pom
+2024-05-28 22:16:31,967 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2024-05-28 22:16:32,233 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/jboss-specs-parent/1.0.0.Beta2/jboss-specs-parent-1.0.0.Beta2.pom
+2024-05-28 22:16:32,280 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2024-05-28 22:16:34,122 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/5/jboss-parent-5.pom
+2024-05-28 22:16:34,169 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2024-05-28 22:16:34,258 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.pom
+2024-05-28 22:16:34,275 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2024-05-28 22:16:34,296 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.pom
+2024-05-28 22:16:34,316 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2024-05-28 22:16:34,402 [Worker-42: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.pom
+2024-05-28 22:16:34,950 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.jar
+2024-05-28 22:16:35,048 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2024-05-28 22:16:35,048 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2024-05-28 22:16:35,048 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2024-05-28 22:16:35,048 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2024-05-28 22:16:35,104 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+2024-05-28 22:16:39,449 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar
+2024-05-28 22:16:39,594 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar
+2024-05-28 22:16:40,406 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar
+2024-05-28 22:16:42,455 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final.jar
+2024-05-28 22:16:43,304 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:43,306 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:16:43,308 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:43,309 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:16:44,933 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:44,934 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:16:44,945 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:44,945 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:16:45,305 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final-sources.jar
+2024-05-28 22:16:47,717 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.1.4.Final/hibernate-core-4.1.4.Final-sources.jar
+2024-05-28 22:16:47,793 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.1.4.Final
+2024-05-28 22:16:47,837 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2024-05-28 22:16:47,872 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final-sources.jar
+2024-05-28 22:16:47,936 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec:1.0.0.Final
+2024-05-28 22:16:47,996 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2024-05-28 22:16:48,040 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final-sources.jar
+2024-05-28 22:16:48,097 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.1.Final
+2024-05-28 22:16:48,140 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2024-05-28 22:16:48,244 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA-sources.jar
+2024-05-28 22:16:48,300 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.15.0-GA
+2024-05-28 22:16:48,347 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2024-05-28 22:16:48,367 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final-sources.jar
+2024-05-28 22:16:48,540 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.1.Final
+2024-05-28 22:16:49,073 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:49,073 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:16:49,074 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:16:49,074 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:17:16,568 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:17:26,975 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2024-05-28 22:17:27,004 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2024-05-28 22:17:27,027 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2024-05-28 22:17:27,047 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2024-05-28 22:17:27,135 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2024-05-28 22:17:27,150 [Worker-39: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2024-05-28 22:17:27,795 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:27,796 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:17:27,797 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:27,798 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:17:29,298 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2024-05-28 22:17:29,324 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2024-05-28 22:17:29,362 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:29,362 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:17:29,370 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:29,371 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:17:29,519 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final
+2024-05-28 22:17:30,572 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:30,572 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:17:30,574 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:17:30,574 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:17:58,238 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:17:59,928 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final.pom
+2024-05-28 22:17:59,944 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final.pom
+2024-05-28 22:18:00,112 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final.jar
+2024-05-28 22:18:00,155 [Worker-44: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final.jar
+2024-05-28 22:18:00,742 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:00,743 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:18:00,744 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:00,745 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:18:01,934 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:18:22,465 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-28 22:18:23,257 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:23,258 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:18:23,260 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:23,260 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:18:24,695 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:24,699 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:18:24,748 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:24,749 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:18:34,572 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final-sources.jar
+2024-05-28 22:18:34,602 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/5.2.3.Final/hibernate-entitymanager-5.2.3.Final-sources.jar
+2024-05-28 22:18:34,660 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-entitymanager:5.2.3.Final
+2024-05-28 22:18:35,077 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:35,077 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-28 22:18:35,078 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:18:35,079 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:29:52,140 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:29:52,142 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:29:52,148 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:29:52,149 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:29:55,703 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:29:55,704 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:29:55,705 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:29:55,705 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:31:26,529 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:31:26,530 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:31:26,533 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:31:26,533 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:31:27,756 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:31:27,758 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:31:27,759 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:31:27,759 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:37:45,265 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:37:45,272 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:37:45,275 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:37:45,276 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-28 22:38:55,245 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:38:55,246 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-28 22:38:55,248 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-28 22:38:55,248 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\src\test\resources
+2024-05-30 21:45:23,938 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-30 21:49:55,441 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-30 21:49:56,420 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 21:49:56,438 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 21:49:56,444 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 21:49:58,661 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 21:49:58,666 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 21:49:58,671 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 21:57:28,713 [Worker-5: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 21:57:28,719 [Worker-5: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 21:57:28,721 [Worker-5: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:07:21,124 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:07:21,143 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:07:21,147 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:07:43,942 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:07:43,943 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:07:43,944 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:13:47,183 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:13:47,210 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:13:47,215 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:13:47,311 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:13:47,313 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:13:47,315 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:46:50,006 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-30 22:46:51,293 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:46:51,296 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-30 22:46:51,297 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:46:53,252 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:46:53,253 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:46:53,261 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:50:33,818 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hackerrank.projects:springboot-rest-api-sample:1.0.0-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\springboot-rest-api-sample\pom.xml.
+2024-05-30 22:50:39,112 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.pom
+2024-05-30 22:50:39,173 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.pom
+2024-05-30 22:50:39,227 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom
+2024-05-30 22:50:39,282 [Worker-49: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.pom
+2024-05-30 22:50:39,376 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+2024-05-30 22:50:39,405 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+2024-05-30 22:50:39,574 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0.jar
+2024-05-30 22:50:39,613 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar
+2024-05-30 22:50:40,217 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:50:40,219 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-30 22:50:40,221 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:50:42,675 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:50:42,691 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-30 22:50:42,755 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3-sources.jar
+2024-05-30 22:50:43,798 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.7.3/postgresql-42.7.3-sources.jar
+2024-05-30 22:50:43,794 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-30 22:50:43,830 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.7.3
+2024-05-30 22:50:43,962 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-sources.jar
+2024-05-30 22:50:44,010 [Worker-33: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/checkerframework/checker-qual/3.42.0/checker-qual-3.42.0-sources.jar
+2024-05-30 22:50:44,022 [Worker-33: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.checkerframework:checker-qual:3.42.0
+2024-05-30 22:50:52,949 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-30 22:50:52,988 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-05-30 22:50:52,990 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 21:17:58,830 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-31 21:46:10,407 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 21:46:10,420 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 21:46:10,429 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 21:47:57,925 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 21:47:57,941 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 21:47:57,942 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 21:48:59,391 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 21:48:59,392 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 21:48:59,394 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:00:50,723 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:00:50,726 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:00:50,729 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:06:36,051 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:06:36,065 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:06:36,067 [Worker-23: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:13:00,478 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:13:00,479 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:13:00,480 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:20:50,478 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:20:50,491 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:20:50,493 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:34:44,852 [Worker-50: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:34:44,877 [Worker-50: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:34:44,892 [Worker-50: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:36:49,873 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:36:49,874 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:36:49,876 [Worker-32: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:38:14,048 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:38:14,049 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:38:14,051 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:39:39,461 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:39:39,463 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:39:39,464 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:40:45,155 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:40:45,156 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:40:45,157 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-05-31 22:41:48,274 [Worker-56: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-05-31 22:41:48,275 [Worker-56: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-05-31 22:41:48,276 [Worker-56: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 21:20:05,117 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-01 21:40:04,050 [Worker-14: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:40:04,063 [Worker-14: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 21:40:04,069 [Worker-14: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 21:40:59,990 [Worker-16: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:40:59,995 [Worker-16: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 21:40:59,997 [Worker-16: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 21:41:39,610 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 21:41:39,612 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 21:41:39,615 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:05:24,474 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:05:24,479 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:05:24,482 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:10:10,149 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:10:10,167 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:10:10,168 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:12:42,801 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:12:42,803 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:12:42,805 [Worker-29: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:46:36,511 [Worker-51: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:46:36,521 [Worker-51: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:46:36,523 [Worker-51: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:48:14,661 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:48:14,662 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:48:14,663 [Worker-52: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:49:00,383 [Worker-49: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:49:00,384 [Worker-49: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:49:00,386 [Worker-49: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:51:27,613 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:51:27,616 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:51:27,617 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:54:41,775 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:54:41,778 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:54:41,779 [Worker-55: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 22:58:56,939 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 22:58:56,941 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 22:58:56,942 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 23:00:16,272 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 23:00:16,273 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 23:00:16,274 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 23:01:21,507 [Worker-59: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 23:01:21,512 [Worker-59: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 23:01:21,522 [Worker-59: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 23:03:18,758 [Worker-63: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 23:03:18,759 [Worker-63: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 23:03:18,760 [Worker-63: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 23:06:43,664 [Worker-64: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 23:06:43,666 [Worker-64: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 23:06:43,669 [Worker-64: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-01 23:07:45,925 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-01 23:07:45,928 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-01 23:07:45,930 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 21:31:35,193 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-02 21:50:06,469 [Worker-0: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 21:50:06,483 [Worker-0: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 21:50:06,496 [Worker-0: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:08:54,757 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:08:54,795 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-02 22:08:54,801 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:09:22,362 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:09:22,363 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 22:09:22,368 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:14:11,924 [Worker-22: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:14:11,927 [Worker-22: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 22:14:11,933 [Worker-22: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:26:35,827 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:26:35,854 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 22:26:35,964 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:29:16,065 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:29:16,068 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 22:29:16,071 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-02 22:31:52,589 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-02 22:31:52,589 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-02 22:31:52,593 [Worker-31: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:00:16,054 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-03 22:15:15,689 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:15:15,706 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-06-03 22:15:15,716 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:15:17,484 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:15:17,485 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-06-03 22:15:17,487 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:30:50,002 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:30:50,023 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-03 22:30:50,030 [Worker-19: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:34:56,344 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:34:56,344 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-03 22:34:56,348 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:43:49,233 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:43:49,251 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-03 22:43:49,369 [Worker-25: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:47:02,717 [Worker-33: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:47:02,718 [Worker-33: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-03 22:47:02,722 [Worker-33: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-03 22:49:00,832 [Worker-36: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-03 22:49:00,834 [Worker-36: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-03 22:49:00,838 [Worker-36: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 21:26:18,399 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-06-05 21:37:39,386 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 21:37:39,414 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-06-05 21:37:39,428 [Worker-18: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:06:48,871 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:06:48,954 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-06-05 22:06:48,966 [Worker-27: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:14:50,003 [Worker-34: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:14:50,016 [Worker-34: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 22:14:50,023 [Worker-34: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:15:45,152 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:15:45,153 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 22:15:45,156 [Worker-30: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:34:58,011 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:34:58,013 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 22:34:58,016 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:46:21,925 [Worker-48: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:46:21,935 [Worker-48: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 22:46:21,942 [Worker-48: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 22:59:42,816 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 22:59:42,856 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 22:59:42,866 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 23:00:23,610 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 23:00:23,616 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 23:00:23,642 [Worker-54: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 23:01:29,146 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 23:01:29,147 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 23:01:29,153 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-05 23:09:02,987 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-06-05 23:09:02,992 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2024-06-05 23:09:02,997 [Worker-61: Launching Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-06-19 21:38:31,130 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-11 22:25:47,438 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-11 22:30:57,902 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\pom.xml
+2024-07-11 22:31:03,106 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: meuprimeiroprojetojsf:meuprimeiroprojetojsf:0.0.1-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\pom.xml.
+2024-07-11 22:31:06,643 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /meuprimeiroprojetojsf/src/main/java
+2024-07-11 22:31:06,655 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /meuprimeiroprojetojsf/src/test/java
+2024-07-11 22:31:06,790 [Worker-2: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2024-07-11 22:31:07,359 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:31:07,359 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 22:31:07,363 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:31:07,363 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 22:31:47,670 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:31:47,670 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 22:31:47,671 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:31:47,672 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 22:32:17,215 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:32:17,216 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 22:32:17,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:32:17,218 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 22:34:54,993 [Worker-20: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:34:54,994 [Worker-20: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 22:34:54,995 [Worker-20: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 22:34:54,995 [Worker-20: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:21:17,233 [Worker-44: Building Project springboot-rest-api-sample] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:21:17,464 [Worker-44: Building Project springboot-rest-api-sample] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2024-07-11 23:21:17,548 [Worker-44: Building Project springboot-rest-api-sample] INFO  o.e.m.c.i.embedder.EclipseLogger - Not copying test resources
+2024-07-11 23:26:38,995 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\pom.xml
+2024-07-11 23:26:56,701 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: meuprimeiroprojetojsf:meuprimeiroprojetojsf:0.0.1-SNAPSHOT @ C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\pom.xml.
+2024-07-11 23:26:58,796 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /meuprimeiroprojetojsf/src/main/java
+2024-07-11 23:26:58,812 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /meuprimeiroprojetojsf/src/test/java
+2024-07-11 23:26:59,470 [Worker-28: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2024-07-11 23:27:00,146 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:00,146 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:27:00,148 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:00,148 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:27:33,848 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:33,849 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:27:33,855 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:33,856 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:27:37,879 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:37,880 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:27:37,883 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:37,883 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:27:50,978 [Worker-47: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:50,978 [Worker-47: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:27:50,980 [Worker-47: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:27:50,980 [Worker-47: Building Project meuprimeiroprojetojsf] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:34:27,907 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:34:27,908 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:34:27,909 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:34:27,909 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:34:29,222 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:34:29,222 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:34:29,223 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:34:29,223 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:39:27,473 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:27,474 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:39:27,475 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:27,475 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:39:29,681 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:29,681 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:39:29,683 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:29,683 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-11 23:39:30,779 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:30,779 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\main\resources
+2024-07-11 23:39:30,781 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-11 23:39:30,781 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\eclipse-workspace\meuprimeiroprojetojsf\src\test\resources
+2024-07-12 22:51:00,040 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-12 22:53:59,560 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: meuprimeiroprojetojsf:meuprimeiroprojetojsf:0.0.1-SNAPSHOT @ C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\pom.xml.
+2024-07-12 22:53:59,814 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2024-07-12 22:53:59,844 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2024-07-12 22:53:59,863 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2024-07-12 22:53:59,894 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2024-07-12 22:53:59,961 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0.pom
+2024-07-12 22:53:59,998 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0.pom
+2024-07-12 22:54:00,021 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.pom
+2024-07-12 22:54:00,179 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.pom
+2024-07-12 22:54:00,200 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.pom
+2024-07-12 22:54:00,450 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.pom
+2024-07-12 22:54:00,465 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.pom
+2024-07-12 22:54:00,494 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.pom
+2024-07-12 22:54:00,507 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2024-07-12 22:54:00,533 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+2024-07-12 22:54:00,546 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2024-07-12 22:54:00,577 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/9/jboss-parent-9.pom
+2024-07-12 22:54:00,591 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2024-07-12 22:54:00,620 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+2024-07-12 22:54:00,632 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2024-07-12 22:54:00,657 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+2024-07-12 22:54:00,673 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2024-07-12 22:54:00,699 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/10/jboss-parent-10.pom
+2024-07-12 22:54:00,713 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2024-07-12 22:54:00,749 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.pom
+2024-07-12 22:54:00,761 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2024-07-12 22:54:00,789 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+2024-07-12 22:54:00,823 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2024-07-12 22:54:00,849 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+2024-07-12 22:54:00,860 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2024-07-12 22:54:00,910 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2024-07-12 22:54:00,949 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2024-07-12 22:54:00,976 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+2024-07-12 22:54:01,004 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2024-07-12 22:54:01,030 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+2024-07-12 22:54:01,063 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12.pom
+2024-07-12 22:54:01,101 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12.pom
+2024-07-12 22:54:01,114 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.6/pgjdbc-core-parent-1.1.6.pom
+2024-07-12 22:54:01,409 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-core-parent/1.1.6/pgjdbc-core-parent-1.1.6.pom
+2024-07-12 22:54:01,430 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.6/pgjdbc-versions-1.1.6.pom
+2024-07-12 22:54:01,765 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/pgjdbc-versions/1.1.6/pgjdbc-versions-1.1.6.pom
+2024-07-12 22:54:01,903 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2024-07-12 22:54:02,065 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.pom
+2024-07-12 22:54:02,098 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2024-07-12 22:54:02,125 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.pom
+2024-07-12 22:54:02,157 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.pom
+2024-07-12 22:54:02,181 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.pom
+2024-07-12 22:54:02,195 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final.pom
+2024-07-12 22:54:02,256 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final.pom
+2024-07-12 22:54:02,288 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2.pom
+2024-07-12 22:54:02,315 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2.pom
+2024-07-12 22:54:02,331 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+2024-07-12 22:54:02,358 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-master/3.5.2/antlr-master-3.5.2.pom
+2024-07-12 22:54:02,399 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2.pom
+2024-07-12 22:54:02,437 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2.pom
+2024-07-12 22:54:02,452 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+2024-07-12 22:54:02,481 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.pom
+2024-07-12 22:54:02,496 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8.pom
+2024-07-12 22:54:02,524 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8.pom
+2024-07-12 22:54:02,538 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2.pom
+2024-07-12 22:54:02,983 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2.pom
+2024-07-12 22:54:02,996 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2024-07-12 22:54:03,054 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.pom
+2024-07-12 22:54:03,068 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2024-07-12 22:54:03,093 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom
+2024-07-12 22:54:03,107 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2024-07-12 22:54:03,800 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.1/hamcrest-parent-1.1.pom
+2024-07-12 22:54:03,818 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom
+2024-07-12 22:54:03,847 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.pom
+2024-07-12 22:54:03,871 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom
+2024-07-12 22:54:03,902 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.pom
+2024-07-12 22:54:03,916 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/api/api/1/api-1.pom
+2024-07-12 22:54:03,944 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/api/api/1/api-1.pom
+2024-07-12 22:54:03,957 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/pom/2/pom-2.pom
+2024-07-12 22:54:03,986 [Worker-17: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/pom/2/pom-2.pom
+2024-07-12 22:54:04,020 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar
+2024-07-12 22:54:04,031 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0.jar
+2024-07-12 22:54:04,031 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2024-07-12 22:54:04,056 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.jar
+2024-07-12 22:54:04,096 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.jar
+2024-07-12 22:54:04,128 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0.jar
+2024-07-12 22:54:04,137 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar
+2024-07-12 22:54:04,195 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2024-07-12 22:54:04,202 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2024-07-12 22:54:04,246 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.jar
+2024-07-12 22:54:04,268 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.jar
+2024-07-12 22:54:04,281 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2024-07-12 22:54:04,334 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2024-07-12 22:54:04,346 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar
+2024-07-12 22:54:04,412 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final.jar
+2024-07-12 22:54:04,435 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2024-07-12 22:54:04,497 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2024-07-12 22:54:04,511 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2024-07-12 22:54:04,590 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2024-07-12 22:54:04,627 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+2024-07-12 22:54:04,691 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12.jar
+2024-07-12 22:54:04,796 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+2024-07-12 22:54:04,931 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar
+2024-07-12 22:54:05,017 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar
+2024-07-12 22:54:05,074 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.jar
+2024-07-12 22:54:05,083 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2024-07-12 22:54:05,092 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar
+2024-07-12 22:54:05,149 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2024-07-12 22:54:05,157 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2024-07-12 22:54:05,300 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar
+2024-07-12 22:54:05,300 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12.jar
+2024-07-12 22:54:05,383 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2024-07-12 22:54:05,383 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final.jar
+2024-07-12 22:54:05,670 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar
+2024-07-12 22:54:05,675 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1.jar
+2024-07-12 22:54:05,753 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2.jar
+2024-07-12 22:54:05,753 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2.jar
+2024-07-12 22:54:05,764 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar
+2024-07-12 22:54:05,772 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final.jar
+2024-07-12 22:54:05,832 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8.jar
+2024-07-12 22:54:05,868 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar
+2024-07-12 22:54:06,142 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar
+2024-07-12 22:54:06,152 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8.jar
+2024-07-12 22:54:06,189 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar
+2024-07-12 22:54:06,209 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2.jar
+2024-07-12 22:54:06,236 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar
+2024-07-12 22:54:06,251 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+2024-07-12 22:54:06,562 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1.jar
+2024-07-12 22:54:06,566 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1.jar
+2024-07-12 22:54:06,570 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2.jar
+2024-07-12 22:54:06,576 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2.jar
+2024-07-12 22:54:06,646 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2.jar
+2024-07-12 22:54:13,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:13,773 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\main\resources
+2024-07-12 22:54:13,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:13,775 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\test\resources
+2024-07-12 22:54:14,279 [Worker-7: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: meuprimeiroprojetojsf:meuprimeiroprojetojsf:0.0.1-SNAPSHOT @ C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\pom.xml.
+2024-07-12 22:54:14,538 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2-sources.jar
+2024-07-12 22:54:14,544 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for jstl:jstl:1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:sources:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-12 22:54:14,682 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:14,682 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\main\resources
+2024-07-12 22:54:14,683 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:14,683 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\test\resources
+2024-07-12 22:54:14,715 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final-sources.jar
+2024-07-12 22:54:14,758 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final-sources.jar
+2024-07-12 22:54:14,762 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.0.Final
+2024-07-12 22:54:14,936 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0-sources.jar
+2024-07-12 22:54:15,064 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.eclipse.persistence:javax.persistence:2.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.eclipse.persistence:javax.persistence:jar:sources:2.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-12 22:54:15,225 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20-sources.jar
+2024-07-12 22:54:15,534 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20-sources.jar
+2024-07-12 22:54:15,540 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.faces:jsf-api:2.1.20
+2024-07-12 22:54:15,734 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20-sources.jar
+2024-07-12 22:54:16,062 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20-sources.jar
+2024-07-12 22:54:16,068 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.faces:jsf-impl:2.1.20
+2024-07-12 22:54:16,105 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final-sources.jar
+2024-07-12 22:54:16,443 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.3.11.Final/hibernate-entitymanager-4.3.11.Final-sources.jar
+2024-07-12 22:54:16,446 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-entitymanager:4.3.11.Final
+2024-07-12 22:54:16,477 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA-sources.jar
+2024-07-12 22:54:16,852 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA-sources.jar
+2024-07-12 22:54:16,857 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.1.3.GA
+2024-07-12 22:54:16,885 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1-sources.jar
+2024-07-12 22:54:17,024 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1-sources.jar
+2024-07-12 22:54:17,029 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1
+2024-07-12 22:54:17,059 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final-sources.jar
+2024-07-12 22:54:17,094 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final-sources.jar
+2024-07-12 22:54:17,098 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.5.Final
+2024-07-12 22:54:17,128 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final-sources.jar
+2024-07-12 22:54:17,316 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final-sources.jar
+2024-07-12 22:54:17,321 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final
+2024-07-12 22:54:17,350 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar
+2024-07-12 22:54:17,450 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA-sources.jar
+2024-07-12 22:54:17,458 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.18.1-GA
+2024-07-12 22:54:17,494 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2024-07-12 22:54:18,269 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final-sources.jar
+2024-07-12 22:54:18,273 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.3.11.Final
+2024-07-12 22:54:18,303 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12-sources.jar
+2024-07-12 22:54:18,429 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.2.12/postgresql-42.2.12-sources.jar
+2024-07-12 22:54:18,433 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.2.12
+2024-07-12 22:54:18,469 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2-sources.jar
+2024-07-12 22:54:18,518 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/enterprise/cdi-api/1.2/cdi-api-1.2-sources.jar
+2024-07-12 22:54:18,521 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.enterprise:cdi-api:1.2
+2024-07-12 22:54:18,551 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar
+2024-07-12 22:54:18,593 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0-sources.jar
+2024-07-12 22:54:18,596 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.el:javax.el-api:3.0.0
+2024-07-12 22:54:18,624 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-sources.jar
+2024-07-12 22:54:18,754 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2-sources.jar
+2024-07-12 22:54:18,759 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.interceptor:javax.interceptor-api:1.2
+2024-07-12 22:54:18,791 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1-sources.jar
+2024-07-12 22:54:18,818 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/transaction/jta/1.1/jta-1.1-sources.jar
+2024-07-12 22:54:18,821 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.transaction:jta:1.1
+2024-07-12 22:54:18,964 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final-sources.jar
+2024-07-12 22:54:19,177 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.2.2.Final/jandex-2.2.2.Final-sources.jar
+2024-07-12 22:54:19,182 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.2.2.Final
+2024-07-12 22:54:19,217 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2024-07-12 22:54:19,292 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2-sources.jar
+2024-07-12 22:54:19,296 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xml-apis:xml-apis:1.0.b2
+2024-07-12 22:54:19,483 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2-sources.jar
+2024-07-12 22:54:19,887 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-complete/3.5.2/antlr-complete-3.5.2-sources.jar
+2024-07-12 22:54:19,890 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-complete:3.5.2
+2024-07-12 22:54:19,920 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2-sources.jar
+2024-07-12 22:54:20,253 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr/3.5.2/antlr-3.5.2-sources.jar
+2024-07-12 22:54:20,296 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr:3.5.2
+2024-07-12 22:54:20,322 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8-sources.jar
+2024-07-12 22:54:20,619 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/ST4/4.0.8/ST4-4.0.8-sources.jar
+2024-07-12 22:54:20,624 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:ST4:4.0.8
+2024-07-12 22:54:20,654 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2-sources.jar
+2024-07-12 22:54:20,727 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2-sources.jar
+2024-07-12 22:54:20,731 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.5.2
+2024-07-12 22:54:20,775 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2-sources.jar
+2024-07-12 22:54:20,943 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/gunit/3.5.2/gunit-3.5.2-sources.jar
+2024-07-12 22:54:20,947 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:gunit:3.5.2
+2024-07-12 22:54:20,979 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1-sources.jar
+2024-07-12 22:54:21,066 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1-sources.jar
+2024-07-12 22:54:21,069 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2024-07-12 22:54:21,099 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1-sources.jar
+2024-07-12 22:54:21,142 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0-alpha-1/servlet-api-3.0-alpha-1-sources.jar
+2024-07-12 22:54:21,146 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:servlet-api:3.0-alpha-1
+2024-07-12 22:54:21,322 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2-javadoc.jar
+2024-07-12 22:54:21,327 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for jstl:jstl:1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-12 22:54:21,333 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.0.Final
+2024-07-12 22:54:21,529 [Worker-17: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.0.0/javax.persistence-2.0.0-javadoc.jar
+2024-07-12 22:54:21,791 [Worker-17: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for org.eclipse.persistence:javax.persistence:2.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.eclipse.persistence:javax.persistence:jar:javadoc:2.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-07-12 22:54:21,796 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.faces:jsf-api:2.1.20
+2024-07-12 22:54:22,105 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.faces:jsf-impl:2.1.20
+2024-07-12 22:54:22,550 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-entitymanager:4.3.11.Final
+2024-07-12 22:54:22,554 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.1.3.GA
+2024-07-12 22:54:22,557 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging-annotations:1.2.0.Beta1
+2024-07-12 22:54:22,561 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:4.0.5.Final
+2024-07-12 22:54:22,564 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.0.0.Final
+2024-07-12 22:54:22,568 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.javassist:javassist:3.18.1-GA
+2024-07-12 22:54:22,571 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:4.3.11.Final
+2024-07-12 22:54:22,574 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.2.12
+2024-07-12 22:54:22,578 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.enterprise:cdi-api:1.2
+2024-07-12 22:54:22,581 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.el:javax.el-api:3.0.0
+2024-07-12 22:54:22,585 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.interceptor:javax.interceptor-api:1.2
+2024-07-12 22:54:22,588 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.transaction:jta:1.1
+2024-07-12 22:54:22,591 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.2.2.Final
+2024-07-12 22:54:22,596 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for xml-apis:xml-apis:1.0.b2
+2024-07-12 22:54:22,599 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-complete:3.5.2
+2024-07-12 22:54:22,603 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr:3.5.2
+2024-07-12 22:54:22,607 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:ST4:4.0.8
+2024-07-12 22:54:22,612 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:antlr-runtime:3.5.2
+2024-07-12 22:54:22,614 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:gunit:3.5.2
+2024-07-12 22:54:22,617 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.antlr:stringtemplate:3.2.1
+2024-07-12 22:54:22,621 [Worker-17: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.servlet:servlet-api:3.0-alpha-1
+2024-07-12 22:54:23,149 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:23,150 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\main\resources
+2024-07-12 22:54:23,150 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-12 22:54:23,151 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Eduardo\Desktop\meuprimeiroprojetojsf\src\test\resources
+2024-07-16 20:19:51,831 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-07-17 13:33:50,541 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-07-18 11:37:10,040 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-12 13:36:05,995 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

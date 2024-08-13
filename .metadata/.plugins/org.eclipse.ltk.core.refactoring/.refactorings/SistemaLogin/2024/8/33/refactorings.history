@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.SistemaLogin.login.CadastroLoginServlet&apos; to &apos;CadastroLogin&apos;&#x0D;&#x0A;- Original project: &apos;SistemaLogin&apos;&#x0D;&#x0A;- Original element: &apos;br.com.SistemaLogin.login.CadastroLoginServlet&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.SistemaLogin.login.CadastroLogin&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CadastroLoginServlet&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.SistemaLogin.login{CadastroLoginServlet.java[CadastroLoginServlet" matchStrategy="1" name="CadastroLogin" qualified="false" references="true" similarDeclarations="false" stamp="1723480952612" textual="false" version="1.0"/>
+</session>
